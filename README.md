@@ -1,5 +1,4 @@
-<img width="1920" height="1080" alt="{55173D7B-A699-423C-9813-C68C54A28ADE}" src="https://github.com/user-attachments/assets/e3276938-db26-4439-a10f-e185c8f82aaa" />
-<img width="1920" height="1080" alt="{D11FEAB8-A2DB-47BB-B3DD-6C700DA161AA}" src="https://github.com/user-attachments/assets/13e26622-ab7b-4b63-bc6c-5ad136d1cdf5" />
+
 # JobGraph AI — React Frontend
 
 JobGraph AI is an interactive web interface designed to connect job seekers with relevant job postings using graph-based skill analytics. Built with **React** and **Vite**, this application communicates directly with a **Spring Boot** backend powered by **CognoDB (Neo4j OpenCypher Engine)** to execute graph traversals and live node creation.
@@ -74,4 +73,11 @@ A seed.cypher file is included in the project root containing Cypher scripts to 
 🔗 Repository Links
 Frontend Repo: https://github.com/yarlagaddaraja/jobgraph-application
 
-Backend Repo: https://github.com/<YOUR_GITHUB_USERNAME>/jobgraph-backend
+Backend Repo: https://github.com/<YOUR_GITHUB_USERNAME>/jobgraph-backend4
+
+Deployment link:  https://jobgraph-application.vercel.app/
+<img width="1920" height="1080" alt="{AD1DF078-C265-4CF8-94E9-A9D6EDA6E83C}" src="https://github.com/user-attachments/assets/0418f801-329f-4559-a7e0-c2d8d400ede1" />
+<img width="1920" height="1080" alt="{45A2258A-4A38-4572-A017-25B0C8A51857}" src="https://github.com/user-attachments/assets/6fa420ee-9edd-4c00-a123-a0b403bafb53" />
+<img width="1920" height="1080" alt="{E0DDF8F3-494B-4C7E-8D46-A3C9C8371753}" src="https://github.com/user-attachments/assets/1e9ed4e8-7f05-4ac7-a8d5-67762ff48dcd" />
+
+
