@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="{55173D7B-A699-423C-9813-C68C54A28ADE}" src="https://github.com/user-attachments/assets/e3276938-db26-4439-a10f-e185c8f82aaa" />
+<img width="1920" height="1080" alt="{D11FEAB8-A2DB-47BB-B3DD-6C700DA161AA}" src="https://github.com/user-attachments/assets/13e26622-ab7b-4b63-bc6c-5ad136d1cdf5" />
 # JobGraph AI — React Frontend
 
 JobGraph AI is an interactive web interface designed to connect job seekers with relevant job postings using graph-based skill analytics. Built with **React** and **Vite**, this application communicates directly with a **Spring Boot** backend powered by **CognoDB (Neo4j OpenCypher Engine)** to execute graph traversals and live node creation.
